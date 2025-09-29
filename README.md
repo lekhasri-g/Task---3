@@ -2,4 +2,4 @@
 # Perform a Basic Vulnerability Scan On your PC
 # Name: Lekha Sri G 
 # Date: 25/9/2025
-# Content: Screenshot, Vulnerability Scan Report, Overview 
+# Content: Screenshot, Vulnerability Scan Report, Vulnerability Overview, Tool used
